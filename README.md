@@ -1,2 +1,2 @@
 # EdgeofStability_Jax
- Reproduce the Edge of Stability of https://arxiv.org/abs/2103.00065
+ Reproduce the Edge of Stability phenomena observed in https://arxiv.org/abs/2103.00065
